@@ -1,4 +1,4 @@
-# Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
+# CareerCraft: ATS-Optimized Resume Analyzer using Gemini Model
 ## Overview
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
@@ -64,7 +64,7 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or issues, feel free to reach out to the maintainers:
 
-Maintainer: Uday Somapura,
+Maintainer: Uday Somapuram
 Email: 229x1a2856@gprec.ac.in
 
 Happy recruiting with Gemini Pro ATS!
